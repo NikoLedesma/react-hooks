@@ -1,0 +1,9 @@
+{
+  "id": "1553715784102",
+  "code": "10",
+  "environment": "1",
+  "data": {
+    "USERS": ["UserA", "UserB", "UserC", "UserD"],
+    "P_MSGE": "OK"
+  }
+}
